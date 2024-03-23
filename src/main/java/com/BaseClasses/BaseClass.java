@@ -21,6 +21,9 @@ public class BaseClass {
 	{
 		System.out.println("trail2 method added by AG ");
 	}
-	
+	public void Trial3()
+	{
+		System.out.println("PP");
+	}	
 	
 }
