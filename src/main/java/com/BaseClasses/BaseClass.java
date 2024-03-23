@@ -24,6 +24,7 @@ public class BaseClass {
 	public void Trial3()
 	{
 		System.out.println("PP");
+		System.out.println("Hello EveryOne");
 	}	
 	
 }
