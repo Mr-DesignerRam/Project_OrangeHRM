@@ -1,6 +1,8 @@
 package com.BaseClasses;
 
 public class BaseClass {
+	
+	
 
 	public static void main(String[] args) {
 		System.out.println("Hello");
@@ -15,4 +17,10 @@ public class BaseClass {
 	{
 		System.out.println("trail method added by AG ");
 	}
+	public void trialMethod2() 
+	{
+		System.out.println("trail2 method added by AG ");
+	}
+	
+	
 }
