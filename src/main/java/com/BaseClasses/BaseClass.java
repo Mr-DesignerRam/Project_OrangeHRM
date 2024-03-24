@@ -27,4 +27,9 @@ public class BaseClass {
 		System.out.println("Hello EveryOne");
 	}	
 	
+	public void trial4()
+	{
+		System.out.println("mm");
+	}
+	
 }
